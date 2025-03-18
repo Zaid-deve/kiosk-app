@@ -1,0 +1,46 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": "starters",
+            "name": "starters",
+            "items": []
+        },
+        {
+            "id": "main-course",
+            "name": "Main Course",
+            "items": [
+                {
+                    "id": "2",
+                    "name": "Tikka Chicken",
+                    "description": "masala tikka chicken",
+                    "price": "250",
+                    "categoryId": "main-course"
+                }
+            ]
+        },
+        {
+            "id": "breads",
+            "name": "Breads",
+            "items": []
+        },
+        {
+            "id": "dessert",
+            "name": "Desserts",
+            "items": []
+        },
+        {
+            "id": "beverages",
+            "name": "Beverages",
+            "items": [
+                {
+                    "id": "1",
+                    "name": "Zaid Patel",
+                    "description": "aaddaa13131",
+                    "price": "13131300",
+                    "categoryId": "beverages"
+                }
+            ]
+        }
+    ]
+}
